@@ -1,5 +1,3 @@
-alert("Hola JS");
-
 function calcularPrecioFinal() {
     // en cantEntradas almaceno la cantidad de entradas que ingreso el usuario
     let cantEnt = document.getElementById("cantEntradas").value;
